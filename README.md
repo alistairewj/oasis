@@ -2,6 +2,10 @@
 
 This repository hosts code in various languages to calculate the Oxford Acute Severity of Illness Score (OASIS).
 
+* [Matlab](/oasis.m)
+* [Excel](/oasis.xlsm)
+* [Python](/oasis.py)
+
 OASIS is described in the following publication: [A new severity of illness scale using a subset of Acute Physiology And Chronic Health Evaluation data elements shows comparable predictive accuracy](http://www.ncbi.nlm.nih.gov/pubmed/23660729).
 
 ```
